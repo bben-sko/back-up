@@ -48,14 +48,12 @@ This script automates the process of setting up a development environment on a L
 
 - Modify the `extensions` array to add or remove VS Code extensions.
 - Adjust the `urls` array to change which websites are opened in Chrome.
-- Edit the gsettings commands to alter system configurations.
 
 ## Requirements
 
 - GNOME desktop environment
 - Visual Studio Code
 - Google Chrome
-- Git (for commit functionality)
 
 ## Note
 

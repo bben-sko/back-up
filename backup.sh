@@ -16,6 +16,11 @@ gsettings set org.gnome.settings-daemon.plugins.power sleep-inactive-ac-type 'no
 # Set keyboard layouts
 gsettings set org.gnome.desktop.input-sources sources "[('xkb', 'us'), ('xkb', 'fr')]"
 
+# Configure Git
+# Replace "Your Name" and "you@example.com" with your actual name and email
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
 # Define VS Code extensions to install
 extensions=(
     extensions Visual Studio

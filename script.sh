@@ -25,7 +25,7 @@ git config --global user.name "Your Name"
 extensions=(
     extensions Visual Studio
 )
-
+xdg-open https://www.google.com
 # Define Chrome URLs to open
 chrom=(
     URLs in Google Chrome
